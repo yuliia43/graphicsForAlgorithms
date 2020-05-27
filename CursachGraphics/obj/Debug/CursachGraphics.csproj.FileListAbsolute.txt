@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\obj\Debug\CursachGraphics.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\obj\Debug\CursachGraphics.Form1.resources
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\obj\Debug\CursachGraphics.Properties.Resources.resources
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\obj\Debug\CursachGraphics.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\obj\Debug\CursachGraphics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\bin\Debug\CursachGraphics.exe.config
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\bin\Debug\CursachGraphics.exe
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\bin\Debug\CursachGraphics.pdb
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\obj\Debug\CursachGraphics.exe
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\obj\Debug\CursachGraphics.pdb
+C:\Users\User\source\repos\CursachGraphics\CursachGraphics\obj\Debug\CursachGraphics.Form2.resources
